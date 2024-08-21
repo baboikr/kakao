@@ -332,6 +332,7 @@ a.btn_download > span.app_store{
 }
 .action{
     display: flex;
+    padding: 10px 0;
 }
 .action > a:hover{
     text-decoration: underline;
@@ -399,6 +400,7 @@ a.btn_download > span.app_store{
 }
 .section_07 .description p{
     opacity: 60%;
+    margin-bottom: 5px;
 }
 .action.dark > a{
     background-color: #2e364f;
@@ -784,6 +786,7 @@ ul.footer_list{
         justify-content: center;
         flex-wrap: wrap;
         row-gap: 10px;
+        margin: 5px 0;
     }
     .description_image{
         display: flex;
